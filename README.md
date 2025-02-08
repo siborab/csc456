@@ -1,16 +1,18 @@
 # Topics in Software Engineering
+Project Name: Event Planner for Friends
 
-This is a template repository for the topics in software engineering class I teach at CCNY.
-It comes with a pre-configured devcontainer that includes most of the tools you'll need during this semester. 
-If you start with this repository as a template you will have a ready to go development environment that you'll be able to 
-share with your team mates. Additionally, a demo github action workflow has been setup to help you with your first assignment.
+Description of the problem that this application will solve:
+Coordinating informal events in friend groups often leads to inefficiencies due to fragmented 
+communication, lack of task delegation, and difficulty in tracking event details. Traditional event 
+management applications like Eventbrite are designed for large-scale public events and don't cater 
+to the specific needs of small, private gatherings. As a result, users rely on group chats, google 
+docs, and separate apps to manage RSVPs, assign responsibilities, and communicate updates, which can 
+lead to miscommunication and disorganization.
+This app would allow all aspects of event planning to be centralized on one platform. Users would be
+able to see time, location, itinerary, outstanding tasks, send out notificaitions when changes are 
+made, etc.
 
-# Tools
-The tools that are installed with this devcontainer are:
-
-* act which allows you to run GitHub Actions in the local development environment.
-* terraform which lets you automate infrastructure provisioning
-* aws cli for interacting with AWS environment.
-
-# For Students
-If you are a student in the class you can create a new repository using this template. Once you've created a repository of your own replace the content of this file with the description or you project idea.
+Primary User:
+The primary users would be large friend groups that often host intricate get togethers that involve
+extensive planning and delegation. It could also be utilized for other event planning like club 
+meetings, family events, or other hobbyist groups.
